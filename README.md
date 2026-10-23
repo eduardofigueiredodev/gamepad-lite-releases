@@ -8,9 +8,13 @@ Seus controles, seus ajustes. Um utilitário para Windows com emulação Xbox, p
 
 ## [↓ Baixar para Windows](https://github.com/eduardofigueiredodev/gamepad-lite-releases/releases/latest/download/GamePadLite-Instalar.exe)
 
-Abra o instalador e aguarde. Ele baixa a versão mais recente, verifica o arquivo e instala o aplicativo com atalhos na **Área de Trabalho** e no **Menu Iniciar**. Não precisa de conta no GitHub.
+Este é o **instalador ONLINE recomendado**: um arquivo pequeno que precisa de internet para baixar e instalar o aplicativo. Ele cria atalhos na **Área de Trabalho** e no **Menu Iniciar**. Não precisa de conta no GitHub.
 
-[Instalador completo](https://github.com/eduardofigueiredodev/gamepad-lite-releases/releases/latest/download/GamePadLite-Setup.exe) · [Novidades da versão](https://github.com/eduardofigueiredodev/gamepad-lite-releases/releases/latest) · [Relatar um problema](https://github.com/eduardofigueiredodev/gamepad-lite-releases/issues)
+[Instalador OFFLINE — aplicativo completo](https://github.com/eduardofigueiredodev/gamepad-lite-releases/releases/latest/download/GamePadLite-Setup.exe) · [Novidades da versão](https://github.com/eduardofigueiredodev/gamepad-lite-releases/releases/latest) · [Relatar um problema](https://github.com/eduardofigueiredodev/gamepad-lite-releases/issues)
+
+**Escolha apenas um instalador.** ONLINE baixa o aplicativo ao instalar; OFFLINE já traz o aplicativo inteiro. Os dois instalam a mesma versão. Se estiver em dúvida, use o botão “Baixar para Windows”.
+
+Os arquivos SHA-256 e “Source code” da lista de downloads não são instaladores e podem ser ignorados.
 
 ---
 
@@ -36,7 +40,15 @@ O aplicativo instalado verifica novidades ao abrir. Em **Preferências**, use **
 ### Compatibilidade
 
 | Controle | Recursos |
-|---|---|
+|**Escolha apenas um instalador.** ONLINE baixa o aplicativo ao instalar; OFFLINE já traz o aplicativo inteiro. Os dois instalam a mesma versão. Se estiver em dúvida, use o botão “Baixar para Windows”.
+
+Os arquivos SHA-256 e “Source code” da lista de downloads não são instaladores e podem ser ignorados.
+
+---|**Escolha apenas um instalador.** ONLINE baixa o aplicativo ao instalar; OFFLINE já traz o aplicativo inteiro. Os dois instalam a mesma versão. Se estiver em dúvida, use o botão “Baixar para Windows”.
+
+Os arquivos SHA-256 e “Source code” da lista de downloads não são instaladores e podem ser ignorados.
+
+---|
 | **DualSense / Edge** | Entradas, sensores, Xbox virtual, vibração, iluminação e gatilhos adaptativos compatíveis |
 | **DualShock 4 — experimental** | Entradas, Xbox virtual, vibração e barra RGB; ainda requer validação física por modelo |
 | **Genéricos — experimental** | XInput nativo ou modo D via driver legado WinMM, com mapeamento ajustável; cobertura depende do driver |
