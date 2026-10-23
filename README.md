@@ -40,15 +40,7 @@ O aplicativo instalado verifica novidades ao abrir. Em **Preferências**, use **
 ### Compatibilidade
 
 | Controle | Recursos |
-|**Escolha apenas um instalador.** ONLINE baixa o aplicativo ao instalar; OFFLINE já traz o aplicativo inteiro. Os dois instalam a mesma versão. Se estiver em dúvida, use o botão “Baixar para Windows”.
-
-Os arquivos SHA-256 e “Source code” da lista de downloads não são instaladores e podem ser ignorados.
-
----|**Escolha apenas um instalador.** ONLINE baixa o aplicativo ao instalar; OFFLINE já traz o aplicativo inteiro. Os dois instalam a mesma versão. Se estiver em dúvida, use o botão “Baixar para Windows”.
-
-Os arquivos SHA-256 e “Source code” da lista de downloads não são instaladores e podem ser ignorados.
-
----|
+|---|---|
 | **DualSense / Edge** | Entradas, sensores, Xbox virtual, vibração, iluminação e gatilhos adaptativos compatíveis |
 | **DualShock 4 — experimental** | Entradas, Xbox virtual, vibração e barra RGB; ainda requer validação física por modelo |
 | **Genéricos — experimental** | XInput nativo ou modo D via driver legado WinMM, com mapeamento ajustável; cobertura depende do driver |
